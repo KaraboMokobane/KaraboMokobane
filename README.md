@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Karabo Mokobane
 
+***IT Specialist***
+
 🔭 I’m currently working as a Service Desk Analyst. 
 🌱 Deepening my expertise in **Web & Software Development**, **Business Analysis**, and **System Administration**  
 💬 Passionate about all things **Tech**, **innovation**, and building practical solutions.
