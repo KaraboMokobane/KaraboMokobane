@@ -2,7 +2,7 @@
 
 ***IT Specialist***
 
-🔭 I’m currently working as a Service Desk Analyst. 
+🔭 I’m currently working as a Service Desk Analyst. \n
 🌱 Deepening my expertise in **Web & Software Development**, **Business Analysis**, and **System Administration**  
 💬 Passionate about all things **Tech**, **innovation**, and building practical solutions.
 ⚡ Fun fact: *"My StackOverflow search history knows me better than my friends."*
