@@ -2,7 +2,7 @@
 
 ### Cybersecurity Enthusiast | IT Infrastructure | Networking | Cloud Computing
 
-🔭 Currently working as a **Service Desk Analyst** while building enterprise IT and cybersecurity labs.
+🔭 Currently building enterprise IT and cybersecurity labs.
 
 🛡️ Building and documenting real-world cybersecurity, networking, and cloud projects using enterprise technologies.
 
