@@ -19,8 +19,6 @@
 
 💬 Passionate about cybersecurity, infrastructure, cloud computing, automation, and continuous learning.
 
-⚡ My goal is to become a Cybersecurity Professional by building, securing, attacking, monitoring, and documenting enterprise environments.
-
 ---
 
 # 🖥️ Home Lab
