@@ -1,34 +1,105 @@
 # 👋 Hi, I'm Karabo Mokobane
 
-***IT Specialist***
+### Cybersecurity Enthusiast | IT Infrastructure | Networking | Cloud Computing
 
-🔭 I’m currently working as a Service Desk Analyst.
-🌱 Deepening my expertise in **Web & Software Development**, **Business Analysis**, and **System Administration**  
-💬 Passionate about all things **Tech**, **innovation**, and building practical solutions.
-⚡ Fun fact: *"My StackOverflow search history knows me better than my friends."*
+🔭 Currently working as a **Service Desk Analyst** while building enterprise IT and cybersecurity labs.
 
+🛡️ Building and documenting real-world cybersecurity, networking, and cloud projects using enterprise technologies.
 
-## 💻 Tech Stack
+🌱 Currently learning and working with:
+- Proxmox Virtual Environment
+- Docker & Portainer
+- Wazuh SIEM
+- pfSense Firewall
+- Linux Administration
+- Microsoft 365
+- Microsoft Azure
+- Active Directory & Windows Server
+- Networking & VLANs
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+💬 Passionate about cybersecurity, infrastructure, cloud computing, automation, and continuous learning.
 
+⚡ My goal is to become a Cybersecurity Professional by building, securing, attacking, monitoring, and documenting enterprise environments.
 
-**Backtend**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+---
+
+# 🖥️ Home Lab
+
+Current enterprise lab includes:
+
+- 🔹 Proxmox VE
+- 🔹 pfSense
+- 🔹 Ubuntu Server
+- 🔹 Docker
+- 🔹 Portainer
+- 🔹 Kali Linux
+- 🔹 Metasploitable2
+- 🔹 Wazuh SIEM
+- 🔹 VLAN Segmentation
+- 🔹 Windows Server
+- 🔹 Active Directory
+
+**Coming Soon**
+
+- ☁️ Microsoft Azure
+- ☁️ Hybrid Active Directory
+- ☁️ Microsoft Entra ID
+- ☁️ VMware ESXi & vSphere
+- ☁️ Microsoft Sentinel
+- ☁️ Kubernetes
+
+---
+
+# 💻 Tech Stack
+
+### 🛡️ Cybersecurity
+![Wazuh](https://img.shields.io/badge/Wazuh-0052CC?style=flat&logo=wazuh&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
+### 🖥️ Infrastructure & Virtualisation
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+
+### ☁️ Cloud
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
+
+### 🖥️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+
+### 🌐 Networking
+![Cisco](https://img.shields.io/badge/Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
+
+### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-**Design**
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+---
 
+# 📂 Featured Projects
 
-## 📊 GitHub Stats
+🚧 Enterprise Cybersecurity Home Lab
 
-![GitHub Streak Stats](https://streak-stats.demolab.com/?(https://github.com/KaraboMokobane))
+🚧 Proxmox Infrastructure
+
+🚧 Wazuh SIEM Deployment
+
+🚧 pfSense Firewall Configuration
+
+🚧 Docker & Portainer Lab
+
+🚧 Active Directory Lab
+
+🚧 Azure Hybrid Infrastructure (Coming Soon)
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=KaraboMokobane)
