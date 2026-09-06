@@ -11,13 +11,15 @@
 - Docker & Portainer
 - Wazuh SIEM
 - pfSense Firewall
+- OPNsense Firewall
 - Linux Administration
 - Microsoft 365
 - Microsoft Azure
 - Active Directory & Windows Server
 - Networking & VLANs
-
-💬 Passionate about cybersecurity, infrastructure, cloud computing, automation, and continuous learning.
+- MITRE ATT&CK Mapping
+- Vulnerability Testing
+- Adversary Emulation
 
 ---
 
@@ -44,7 +46,6 @@ Current enterprise lab includes:
 - ☁️ Microsoft Entra ID
 - ☁️ VMware ESXi & vSphere
 - ☁️ Microsoft Sentinel
-- ☁️ Kubernetes
 
 ---
 
@@ -53,13 +54,19 @@ Current enterprise lab includes:
 ### 🛡️ Cybersecurity
 ![Wazuh](https://img.shields.io/badge/Wazuh-0052CC?style=flat&logo=wazuh&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat&logo=opnsense&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=flat&logoColor=white)
+![MITRE Caldera](https://img.shields.io/badge/MITRE_Caldera-333333?style=flat&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus_Vulnerability_Scanning-00C176?style=flat&logoColor=white)
+![Security Onion](https://img.shields.io/badge/Security_Onion-5C2D91?style=flat&logoColor=white)
 
 ### 🖥️ Infrastructure & Virtualisation
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 ### ☁️ Cloud
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
@@ -72,6 +79,7 @@ Current enterprise lab includes:
 
 ### 🌐 Networking
 ![Cisco](https://img.shields.io/badge/Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -88,9 +96,17 @@ Current enterprise lab includes:
 
 🚧 Wazuh SIEM Deployment
 
-🚧 pfSense Firewall Configuration
+🚧 pfSense & OPNsense Firewall Configuration
+
+🚧 MITRE Caldera Adversary Emulation
+
+🚧 Nessus Vulnerability Testing
+
+🚧 Security Onion Network Monitoring
 
 🚧 Docker & Portainer Lab
+
+🚧 Local AI Security Lab with Ollama
 
 🚧 Active Directory Lab
 
