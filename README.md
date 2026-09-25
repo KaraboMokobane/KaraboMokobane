@@ -94,26 +94,26 @@ Current enterprise lab includes:
 
 🚧 Proxmox Infrastructure
 
-🚧 Wazuh SIEM Deployment
+- Wazuh SIEM Deployment
 
-🚧 pfSense & OPNsense Firewall Configuration
+- pfSense & OPNsense Firewall Configuration
 
-🚧 MITRE Caldera Adversary Emulation
+- MITRE Caldera Adversary Emulation
 
-🚧 Nessus Vulnerability Testing
+- Nessus Vulnerability Testing
 
-🚧 Security Onion Network Monitoring
+- Security Onion Network Monitoring
 
-🚧 Docker & Portainer Lab
+- Docker & Portainer Lab
 
-🚧 Local AI Security Lab with Ollama
+- Local AI Security Lab with Ollama
 
-🚧 Active Directory Lab
+- Active Directory Lab
 
-🚧 Azure Hybrid Infrastructure (Coming Soon)
+- Azure Hybrid Infrastructure (Coming Soon)
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=KaraboMokobane)
