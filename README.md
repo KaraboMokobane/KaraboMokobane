@@ -29,6 +29,7 @@ Current enterprise lab includes:
 
 - 🔹 Proxmox VE
 - 🔹 pfSense
+- 🔹 OPNSense
 - 🔹 Ubuntu Server
 - 🔹 Docker
 - 🔹 Portainer
