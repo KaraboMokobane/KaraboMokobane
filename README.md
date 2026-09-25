@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Karabo Mokobane
+# 👋 Hi, I'm Karabo
 
 ### Cybersecurity Enthusiast | IT Infrastructure | Networking | Cloud Computing
 
