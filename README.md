@@ -90,9 +90,9 @@ Current enterprise lab includes:
 
 # 📂 Featured Projects
 
-🚧 Enterprise Cybersecurity Home Lab
+- Enterprise Cybersecurity Home Lab
 
-🚧 Proxmox Infrastructure
+- Proxmox Infrastructure
 
 - Wazuh SIEM Deployment
 
