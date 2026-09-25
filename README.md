@@ -2,9 +2,9 @@
 
 ### Cybersecurity Enthusiast | IT Infrastructure | Networking | Cloud Computing
 
-🔭 Currently building enterprise IT and cybersecurity labs.
+Currently building enterprise IT and cybersecurity labs.
 
-🛡️ Building and documenting real-world cybersecurity, networking, and cloud projects using enterprise technologies.
+Building and documenting real-world cybersecurity, networking, and cloud projects using enterprise technologies.
 
 🌱 Currently learning and working with:
 - Proxmox Virtual Environment
