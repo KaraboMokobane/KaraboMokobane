@@ -45,7 +45,6 @@ Current enterprise lab includes:
 - ☁️ Microsoft Azure
 - ☁️ Hybrid Active Directory
 - ☁️ Microsoft Entra ID
-- ☁️ VMware ESXi & vSphere
 - ☁️ Microsoft Sentinel
 
 ---
