@@ -42,10 +42,9 @@ Current enterprise lab includes:
 
 **Coming Soon**
 
-- ☁️ Microsoft Azure
-- ☁️ Hybrid Active Directory
-- ☁️ Microsoft Entra ID
-- ☁️ Microsoft Sentinel
+-  Microsoft Azure
+-  Hybrid Active Directory
+-  Microsoft Entra ID
 
 ---
 
