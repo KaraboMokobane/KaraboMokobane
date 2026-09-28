@@ -32,13 +32,13 @@ Current enterprise lab includes:
 -  OPNSense
 -  Ubuntu Server
 -  Docker
-- 🔹 Portainer
-- 🔹 Kali Linux
-- 🔹 Metasploitable2
-- 🔹 Wazuh SIEM
-- 🔹 VLAN Segmentation
-- 🔹 Windows Server
-- 🔹 Active Directory
+-  Portainer
+-  Kali Linux
+-  Metasploitable2
+-  Wazuh SIEM
+-  VLAN Segmentation
+-  Windows Server
+-  Active Directory
 
 **Coming Soon**
 
