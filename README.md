@@ -81,10 +81,11 @@ Current enterprise lab includes:
 ![Cisco](https://img.shields.io/badge/Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### 💻 Programming & Scripting
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![CSS])()
+![Javascript]()
 
 ---
 
