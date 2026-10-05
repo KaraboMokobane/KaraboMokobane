@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karabo
 
-### Cybersecurity Enthusiast | IT Infrastructure | Networking | Cloud Computing
+### Cybersecurity Enthusiast | Networking | Cloud Computing
 
 Currently building enterprise IT and cybersecurity labs.
 
