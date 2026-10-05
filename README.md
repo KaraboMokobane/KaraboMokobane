@@ -80,7 +80,7 @@ Current enterprise lab includes:
 ### 🌐 Networking
 ![Cisco](https://img.shields.io/badge/Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
-[https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Packet_Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 ### 💻 Programming & Scripting
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
